@@ -5,3 +5,7 @@ We will try to cover broad topics, following the top-tier conferences as well as
 ## The Topics:
 
 #### Optimization:
+
+#### Useful Blogs:
+
+- Lipschitz Continuity: https://xingyuzhou.org/blog/notes/Lipschitz-gradient
