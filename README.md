@@ -3,7 +3,8 @@ This repository is to share the recent papers we read and discuss as a friend gr
 We will try to cover broad topics, following the top-tier conferences as well as journals.
 
 ## The Topics:
-#### Game Theory:
+
+#### Reinforcement Learning:
 
 - [No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium](https://arxiv.org/abs/2004.00603)
 
