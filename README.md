@@ -16,7 +16,7 @@ We will try to cover broad topics, following the top-tier conferences as well as
 
 - [Lipschitz Continuity](https://xingyuzhou.org/blog/notes/Lipschitz-gradient)
 
-## Transformer 
+### Transformer 
 #### (presented by subhash - 01/28/2021)
 Resources:
 * [Attention is all you need paper](https://arxiv.org/pdf/1706.03762.pdf)
