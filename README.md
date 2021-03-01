@@ -16,6 +16,10 @@ We will try to cover broad topics, following the top-tier conferences as well as
 
 - [Lipschitz Continuity](https://xingyuzhou.org/blog/notes/Lipschitz-gradient)
 
+#### Text-to-Image Generation:
+
+- [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)
+
 ### Transformer 
 #### (presented by subhash - 01/28/2021)
 Resources:
