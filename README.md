@@ -11,6 +11,8 @@ We will try to cover broad topics, following the top-tier conferences as well as
 #### Optimization:
 
 - [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/abs/2010.07468)
+- [Adaptive Gradient Methods Converge Faster with Over-Parameterization
+(but you should do a line-search)](https://arxiv.org/pdf/2006.06835.pdf)
 
 #### Useful Blogs:
 
