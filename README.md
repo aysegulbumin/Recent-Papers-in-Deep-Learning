@@ -14,6 +14,13 @@ We will try to cover broad topics, following the top-tier conferences as well as
 - [Adaptive Gradient Methods Converge Faster with Over-Parameterization
 (but you should do a line-search)](https://arxiv.org/pdf/2006.06835.pdf)
 
+#### presented by aysegulbumin - 04/22/2021
+- [A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization- github](https://github.com/facebookresearch/madgrad)
+- [A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization- paper](https://arxiv.org/abs/2101.11075)
+Decent review: 
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
+
+
 #### Useful Blogs:
 
 - [Lipschitz Continuity](https://xingyuzhou.org/blog/notes/Lipschitz-gradient)
@@ -22,7 +29,8 @@ We will try to cover broad topics, following the top-tier conferences as well as
 
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)
 
-### Transformer 
+### Transformer :
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 #### (presented by subhash - 01/28/2021)
 Resources:
 * [Attention is all you need paper](https://arxiv.org/pdf/1706.03762.pdf)
