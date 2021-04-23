@@ -17,6 +17,8 @@ We will try to cover broad topics, following the top-tier conferences as well as
 #### presented by aysegulbumin - 04/22/2021
 - [A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization- github](https://github.com/facebookresearch/madgrad)
 - [A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization- paper](https://arxiv.org/abs/2101.11075)
+
+
 Decent review: 
 - [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
 
